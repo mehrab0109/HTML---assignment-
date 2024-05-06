@@ -1,0 +1,11 @@
+<html>
+<head>
+</head>
+<title>inline styling </title>
+<head>
+<body>
+<h1 style="color:blue;font-size:18px;">
+muhammed mehrab
+</h1>
+</body>
+</html>
